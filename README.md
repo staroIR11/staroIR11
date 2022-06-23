@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @staroIR11
+- 👋 Hi, I’m @ISAAC RITHARSON
 - 👀 I’m interested in Artificial intelligence and Automation
 - 🌱 I’m currently learning Web developement !
 - 💞️ I’m looking to collaborate on projects and ideas
