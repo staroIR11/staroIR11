@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @staroIR11
-- 👀 I’m interested in Artificial intelligence and Automation
+- 👀 I’m interested in Artificial intelligence,Computer Vison and Automation
 - 🌱 I’m currently learning Web developement !
 - 💞️ I’m looking to collaborate on projects and ideas
 - 📫 How to reach me isaacritharson@karunya.edu.in
